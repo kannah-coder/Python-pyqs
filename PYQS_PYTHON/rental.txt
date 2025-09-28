@@ -1,0 +1,1 @@
+CarID: 101, Brand: Toyota, DaysRented: 4, RatePerDay: 900

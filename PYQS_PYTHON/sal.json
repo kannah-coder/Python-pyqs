@@ -1,0 +1,1 @@
+{"ProductID": [1, 2, 3, 4, 5], "ProductName": ["Laptop", "T-Shirt", "Smartphone", "Shoes", "Headphones"], "Category": ["Electronics", "Clothing", "Electronics", "Clothing", "Electronics"], "QuantitySold": [10, 20, 15, 8, 12], "UnitPrice": [500, 30, 300, 100, 80]}

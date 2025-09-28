@@ -1,0 +1,1 @@
+OrderID: 201, Customer: Alice, Date: 2023-05-01, Item: Phone, Amount: 1000
