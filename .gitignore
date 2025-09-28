@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+.env/
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Project-specific
+
+student.txt
+*.csv
+*.xlsx
